@@ -1,0 +1,11 @@
+h2{
+   color: red;
+}
+
+.header{
+   display: flex;
+}
+
+.header-derecha h2{
+   color: blue;
+}
