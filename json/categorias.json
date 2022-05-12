@@ -1,369 +1,662 @@
 {
-   "lista" = {
-      {
-         "nombreCategoria" = "INFO";
-         "subCategoria" = {
-            {
-               "nombreCategoria" = "NOTICIAS";
-               "subCategoria" = {
-                  {
-                     "nombreCategoria" = "RUGPULLS";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  };
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "FECHAS";
-               "subCategoria" = {
-                  {
-                     "nombreCategoria" = "FORKS";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  };
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "DERIVADOS";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "RANDOM";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "AIRDROPS";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "BIBLIOGRAFÍA";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "BLOCKCHAIN EXPLORER";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "SEGURIDAD";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "EXCHANGES";
-               "subCategoria" = {};
-               "urls" = {}
-            }
+   {
+      "nombreCategoria"="INFO";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="NOTICIAS";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="RUGPULL";
+                  "urls"={};
+                  "subCategoria"={};
+               }
             };
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "TOOLS";
-         "subCategoria" = {
-            {
-               "nombreCategoria" = "MARKET";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "ANÁLISIS";
-               "subCategoria" = {
-                  {
-                     "nombreCategoria" = "INSTITUCIONAL";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  };
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "WALLETS";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "SEGURIDAD";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "PRIVACIDAD";
-               "subCategoria" = {};
-               "urls" = {}
-            }
+         }
+         {
+            "nombreCategoria"="FECHAS";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="FORKS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
             };
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "BLOCKCHAINS";
-         "subCategoria" = {
-            {
-               "nombreCategoria" = "BITCOIN";
-               "subCategoria" = {
-                  {
-                     "nombreCategoria" = "GENERAL";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  {
-                     "nombreCategoria" = "MINERÍA/HASH";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  {
-                     "nombreCategoria" = "MÉTRICAS";
-                     "subCategoria" = {
-                        {
-                           "nombreCategoria" = "BALLENAS";
-                           "subCategoria" = {};
-                           "urls" = {}
-                        }
-                        {
-                           "nombreCategoria" = "VC";
-                           "subCategoria" = {};
-                           "urls" = {}
-                        }
-                        {
-                           "nombreCategoria" = "SOCIAL";
-                           "subCategoria" = {};
-                           "urls" = {}
-                        }
-                        {
-                           "nombreCategoria" = "EXCHANGES";
-                           "subCategoria" = {};
-                           "urls" = {}
-                        }
-                        };
-                     "urls" = {}
-                  }
-                  {
-                     "nombreCategoria" = "FECHAS";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  {
-                     "nombreCategoria" = "BIBLIOGRAFÍA";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  {
-                     "nombreCategoria" = "P2P";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  };
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "ETHEREUM";
-               "subCategoria" = {
-                  {
-                     "nombreCategoria" = "INFO";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  {
-                     "nombreCategoria" = "STAKING";
-                     "subCategoria" = {};
-                     "urls" = {}
-                  }
-                  };
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "BINANCE";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "TERRA";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "DOT";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "ATOM";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "CARDANO";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "SOLANA";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "HARMONY";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "OKEX";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "CELO";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "AVALANCHE";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "CRO";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "POLYGON";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "THETA";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "MOONBEAM";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "LITECOIN";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "FANTOM";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "ROSE";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "THORCHAIN";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "OSMOSIS";
-               "subCategoria" = {};
-               "urls" = {}
-            }
-            {
-               "nombreCategoria" = "NEAR";
-               "subCategoria" = {};
-               "urls" = {}
-            }
+         }
+         {
+            "nombreCategoria"="DERIVADOS";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="RANDOM";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="AIRDROPS";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="BIBLIOGRAFÍA";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="BLOCKCHAIN EXPLORER";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="SEGURIDAD";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="EXCHANGES";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="FEES";
+                  "urls"={};
+                  "subCategoria"={};
+               }
             };
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-      {
-         "nombreCategoria" = "";
-         "subCategoria" = {};
-         "urls" = {}
-      }
-
+         }
+      };
+   }
+   {
+      "nombreCategoria"="TOOLS";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="MARKET";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="ANÁLISIS";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INSTITUCIONAL";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="WALLETS";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="SEGURIDAD";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="PRIVACIDAD";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="BLOCKCHAINS";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="BITCOIN";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="GENERAL";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="MINERÍA/HASH";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="MÉTRICAS";
+                  "urls"={};
+                  "subCategoria"={
+                     {
+                        "nombreCategoria"="BALLENAS";
+                        "urls"={};
+                        "subCategoria"={};
+                     }
+                     {
+                        "nombreCategoria"="VC";
+                        "urls"={};
+                        "subCategoria"={};
+                     }
+                     {
+                        "nombreCategoria"="SOCIAL";
+                        "urls"={};
+                        "subCategoria"={};
+                     }
+                     {
+                        "nombreCategoria"="EXCHANGES";
+                        "urls"={};
+                        "subCategoria"={};
+                     }
+                  };
+               }
+               {
+                  "nombreCategoria"="FECHAS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="BIBLIOGRAFÍA";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="P2P";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="ETHEREUM";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="STAKING";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="BINANCE";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="DEX";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="VAULTS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="LENDING";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="NODOS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="TERRA";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="DOT";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="ATOM";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="AIRDROPS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="CARDANO";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="STABLECOINS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="LENDING";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="P2P";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="SOLIDARIDAD";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="SOLANA";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="OPCIONES";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="HARMONY (ONE)";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="OKEX";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="CELO";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="AVALANCHE";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="CRO";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="POLYGON (MATIC)";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="NODOS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="THETA";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="MOONBEAM";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="LITECOIN";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="FANTOM";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="NODOS";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="ROSE";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="THORCHAIN";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="OSMOSIS";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="INFO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="NEAR";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="DEFI";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="DEFI 2.0";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="ETH";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="BSC";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="ONE";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="MATIC";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="AVAX";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="FTM";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="CRO";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="CEX";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="LISTAS";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="DEX";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="LOANS";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="LISTAS";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="MINERÍA";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="BRIDGES";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="MOONBEAM";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="CRO";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="HARMONY";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="FAUCETS";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="BTC";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="MOONBEAM";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="SYSCOIN";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="JUEGOS NFT";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="AXIE INFINITY";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="NFT´s";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="DROPS";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="MARKETPLACE";
+            "urls"={};
+            "subCategoria"={
+               {
+                  "nombreCategoria"="ETH";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="SOL";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="AVAX";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="BINANCE";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="POLYGON";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="FTM";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="ONE";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="ALGO";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="TERRA";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+               {
+                  "nombreCategoria"="ELROND";
+                  "urls"={};
+                  "subCategoria"={};
+               }
+            };
+         }
+         {
+            "nombreCategoria"="ANÁLISIS";
+            "urls"={};
+            "subCategoria"={};
+         }
+         {
+            "nombreCategoria"="NOTICIAS";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="IDO´s";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="INSURANCE";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="RANDOM";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="TRABAJOS";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="OPCIONES";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="DAO´s";
+      "urls"={};
+      "subCategoria"={
+         {
+            "nombreCategoria"="GOBERNANZA";
+            "urls"={};
+            "subCategoria"={};
+         }
+      };
+   }
+   {
+      "nombreCategoria"="ETF´s";
+      "urls"={};
+      "subCategoria"={};
+   }
+   {
+      "nombreCategoria"="WORK";
+      "urls"={};
+      "subCategoria"={};
    }
 }
