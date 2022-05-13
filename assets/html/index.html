@@ -12,9 +12,32 @@
    </head>
    <body>
 
-<!-- Categoría 1 -->
+      <script src="json/categorias.json"></script>
 
-        <div class=`{@1️⃣}`>
+      <!-- HEADER -->
+      <header>
+         <div class="header">
+            <h1>SKILL TREE CRYPTO</h1>
+            <h3>Aquí encontrarás información relacionada a criptomonedas y un roadmap que te mostrará como capacitarte en este rubro</h3>
+         </div>
+      </header>
+
+      <!-- Categorías -->
+
+        <div class="marcadores">
+           <ul class="marcadoresUl">
+             <!-- <?php foreach ($categoria as $categorias) { ?> -->
+             <!-- <li>{@categoria}</li> -->
+                <li>INFO
+                  <ul class="subMarcador">
+                     <li>NOTICIAS</li>
+                     <li>FECHAS</li>
+                  </ul>
+                </li>
+             <!-- <?php foreach ($subCategoria as $categorias) { ?> -->
+                <li>TOOLS</li>
+             <?php }  ?>
+          </ul>
         </div>
 
    </body>
